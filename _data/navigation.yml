@@ -1,0 +1,13 @@
+links:
+- title: Blog
+  url: /
+- title: Conóceme
+  url: /about
+- title: Búscar
+  url: /search
+- title: Temas
+  url: /tags
+- title: Aviso
+  url: /disclaimer
+- title: Rss
+  url: /atom.xml
