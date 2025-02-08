@@ -16,10 +16,10 @@ Uno de los errores más comunes es utilizar nombres genéricos, poco descriptivo
 ### Dando formato a tus nombres de archivo 
 Además de ser descriptivos, los nombres tus archivos deben mantener un formato para seguir dicha organización. Aquí te comparto algunas recomendaciones que he adquirido a lo largo de años de errores y experencias: 
 
-**Minúsculas:** Utiliza letras minúsculas siempre que te sea posible. Algunos sistemas operativos diferencian entre mayúsculas y minúsculas, lo que podría, en ciertas situaciones, generar archivos duplicados no deseados. 
-**Evita espacios:** Los espacios en los nombres, pueden generar problemas, opta por utilizae guiones (-) o guiones bajos (_) para separar las palabras. 
-**Olvidaté los caracteres especiales:** Evita a toda costa utilizar caracteres especiales como !, ¿, $, &, /, \, etc. Pueden causar problemas al compartir archivos o subirlos a la web o al pasarlos de, digamos una Mac a un PC Windows. 
-**Fechas en formato:** Si decides incluir una fecha en los nombres, utiliza siempre el formato ISO 8601 que es (AAAA-MM-DD). Este formato es universal y evita cualquier tipo de confusión. 
+**Minúsculas:** Utiliza letras minúsculas siempre que te sea posible. Algunos sistemas operativos diferencian entre mayúsculas y minúsculas, lo que podría, en ciertas situaciones, generar archivos duplicados no deseados.  
+**Evita espacios:** Los espacios en los nombres, pueden generar problemas, opta por utilizae guiones (-) o guiones bajos (_) para separar las palabras.  
+**Olvidaté los caracteres especiales:** Evita a toda costa utilizar caracteres especiales como !, ¿, $, &, /, \, etc. Pueden causar problemas al compartir archivos o subirlos a la web o al pasarlos de, digamos una Mac a un PC Windows.  
+**Fechas en formato:** Si decides incluir una fecha en los nombres, utiliza siempre el formato ISO 8601 que es (AAAA-MM-DD). Este formato es universal y evita cualquier tipo de confusión.  
 
 ### Automatiza el proceso
 Este punto es el más opcional de todos, por eso lo he colocado al final. Si creas una cantidad ingente de archivos, puede preocuparte la consistencia en el nombrado, existen herramientas de automatización. Por ejemplo, algunos sistemas operativos permiten configurar variables que automáticamente incorporen la fecha actual al nombre del archivo. 
