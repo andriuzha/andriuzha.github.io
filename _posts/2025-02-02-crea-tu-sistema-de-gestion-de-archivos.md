@@ -26,5 +26,5 @@ Este punto es el más opcional de todos, por eso lo he colocado al final. Si cre
 
 Tomate, por favor un tiempo para crear y seguir un sistema de nombrado de archivos, te ayudará a mantener tu información organizada y facilitará la vida a tu equipo y las personas con las que colaboras.
 
-*Estado de ánimo:* _Optimistativo_
-*Escuchando:* _Diane Denoir - Quisiera_
+**Estado de ánimo:** *Optimistativo*  
+**Escuchando:** *Diane Denoir - Quisiera*
