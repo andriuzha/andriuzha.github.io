@@ -5,8 +5,8 @@ links:
   url: /about
 - title: Búscar
   url: /search
-- title: Temas
-  url: /tags
+#- title: Temas
+#  url: /tags
 - title: Aviso
   url: /disclaimer
 - title: Rss
