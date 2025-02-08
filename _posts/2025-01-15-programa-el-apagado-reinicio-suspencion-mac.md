@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Programa el apagado, reinicio o suspención de tu computadora
+title: Programa el apagado, reinicio o suspención de tu Mac
 description: Programando el apagado, reinicio o suspención de tu Mac
 summary: Aprende a programar el apagado, reinicio o suspención de tu computadora en MacOS 
 comments: true
-tags: [tutorial] [mac]
+tags: [tutorial, mac] 
 ---
 
 Todos tenemos ocasiones en las cuales, por algún motivo, tenemos que dejar nuestra Mac trabajando un determinado tiempo pero no podemos estar delante de la máquina para que al teminar dicha tarea, esta se apague. Pongamps un ejemplo: trabajamos con vídeos, y muchas veces necesito transcodificar archivos que tardan 4, 5 horas o más, así que muchas veces en lugar de despertar cada 2 horas por la noche (o tener que regresar a la oficina) para ver sí ya termino y para apagarla, vamos a solucionar el problema programando el apagado. 
@@ -25,3 +25,4 @@ sudo shutdown -s +60 (Suspender dentro de un tiempo determinado,expresado en min
 
 **Estado de ánimo:** *Etéreativo*   
 **Escuchando:** *Inti Santana - La corriente ecléctica*
+
