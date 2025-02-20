@@ -208,3 +208,17 @@ figcaption {
         display: none !important;
     }
 }
+
+/* Agregando visitas */
+.visitas-container {
+    margin-top: 2rem; /* Espacio entre el contenido y el contador */
+    text-align: right; /* Alinea el contador a la derecha */
+    width: 100%; /* Ocupa todo el ancho de la columna de contenido */
+}
+
+@media screen and (max-width: 45rem) {
+    .visitas-container {
+        text-align: center; /* Centra el contador en móviles */
+        margin-top: 1rem; /* Reduce el espacio en móviles */
+    }
+}
