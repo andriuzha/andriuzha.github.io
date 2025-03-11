@@ -4,7 +4,7 @@ title: Crea tu sistema gestión de archivos
 description: Descubre las mejores prácticas, errores comunes y consejos clave para organizar tus archivos de forma eficiente. ¡Dile adiós al caos y da la bienvenida a la productividad!
 summary: Aprende a crear tu propio sistema de gestión de archivos efectivo y personalizado.
 comments: true
-tags: [tutoriales]
+tags: [Tutoriales]
 ---
 
 Este es un tema del que he querido hablar hace mucho, solo que no encontraba una forma adecuada para hacerlo, así que después de darle muchas vueltas he decidido que, en lugar de brindar un sistema de gestión de archivo, hablaré de algunas buenas prácticas, errores comunes  y consideraciones para que tu mismo hagas un sistema de gestión de archivos que se adapte a tus necesidades. Trabajamos con múltiples sistemas operativos, diferentes computadoras, compartimos archivos por la nube o correo electrónico. Contar con un sistema solido es imprescindible. Veamos como se hace:
