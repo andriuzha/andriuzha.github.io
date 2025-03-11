@@ -4,7 +4,7 @@ title: Borra carpetas con muchísimos archivos en Linux y macOS
 description: Usa la terminal y el comando rm -rf para eliminar cualquier carpeta al instante. Aprende cómo y optimiza tu trabajo.
 summary: Aprende a borrar carpetas rápidamente con el comando rm -rf en la terminal. Soluciona problemas de permisos con sudo y optimiza tu flujo de trabajo.
 comments: true
-tags: [Linux, macOS]
+tags: [Linux, macOS, Tutoriales]
 ---
 
 Borrar una carpeta con varios de cientos o incluso miles de archivos dentro puede ser una tarea tediosa, esto se debe a la política que aplica de los gestores de archivos, cuando vamos a borrar una carpeta con archivos dentro, o cuando la copiamos y la pegamos en otra ubicación, primero procede a contar los ítems y luego empieza la operación. Esto puede dar como resultado que sea un proceso absurdamente lento y por otra parte el proceso se interrumpirá si hay problemas con un archivo, ya sea que este corrupto o que haya problemas de permisos, etc. Vamos a solucionarlo.
