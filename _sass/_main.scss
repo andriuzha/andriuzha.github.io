@@ -1,14 +1,16 @@
-// ===== Paleta cálida del blog =====
-$bg:           #fcf0c5; // fondo crema/amarillo muy suave
-$fg:           #3d392b; // texto gris cálido
-$muted:        #6f6752; // enlaces y elementos secundarios
-$surface:      #f3ecd4; // bloques de código
-$surface-soft: #efe6c8; // citas
-$rule:         #d9cfab; // línea horizontal (hr)
-$border:       #e7ddbf; // bordes de separación
+// ===== Paleta Gruvbox (dark, hard contrast) =====
+$bg0-h:        #1d2021; // fondo principal (casi negro marrón)
+$bg1:          #3c3836; // bloques de código / superficie
+$fg:           #ebdbb2; // texto crema suave
+$fg-dim:       #a89984; // enlaces y texto secundario
+$muted:        #928374; // meta, times, figcaptions
+$yellow:       #fabd2f; // acento (títulos, enlaces hover)
+$orange:       #fe8019; // borde de citas
+$border:       #504945; // bordes de separación
+$rule:         #665c54; // hr
 
 html {
-	background: $bg;
+	background: $bg0-h;
 }
 
 *,:after,:before {
@@ -25,7 +27,7 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	background: $bg;
+	background: $bg0-h;
 	color: $fg;
 }
 
@@ -34,9 +36,13 @@ nav ul {
 }
 
 a {
-    color: $muted;
+    color: $fg-dim;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
+}
+
+a:hover {
+    color: $yellow;
 }
 
 pre {
@@ -58,10 +64,11 @@ pre {
 
 .meta {
 	margin: 2rem 0;
+	color: $muted;
 }
 
 code,pre {
-	background: $surface;
+	background: $bg1;
 }
 
 code {
@@ -95,6 +102,11 @@ header {
 
 header a {
 	text-decoration: none;
+	color: $fg-dim;
+}
+
+header a:hover {
+	color: $yellow;
 }
 
 header li {
@@ -105,6 +117,7 @@ header li {
 
 header a.active {
 	font-weight: bold;
+	color: $fg;
 }
 
 header,section {
@@ -113,14 +126,16 @@ header,section {
 
 blockquote {
 	font-style: italic;
-    border-left: 5px solid $surface-soft;
+    border-left: 5px solid $orange;
     padding-left: 1rem;
+    color: $fg-dim;
 }
 
 h1,h2,h3,h4,h5 {
 	line-height: 1;
 	margin: 1rem 0;
 	font-weight: 600;
+	color: $yellow;
 }
 
 section h1:first-child {
@@ -159,12 +174,14 @@ strong, b {
 	overflow:hidden;
 	text-overflow:ellipsis;
 	text-decoration: none;
+	color: $fg;
 }
 
 .posts li time, .projects li time {
 	padding-left: 1rem;
 	white-space: nowrap;
 	font-variant-numeric: tabular-nums;
+	color: $muted;
 }
 
 .post ul, .project ul, .post ol  {
@@ -213,6 +230,7 @@ section {
 
 figcaption {
     font-size: smaller;
+    color: $muted;
 }
 
 @media print
@@ -228,6 +246,7 @@ figcaption {
     margin-top: 2rem; /* Espacio entre el contenido y el contador */
     text-align: right; /* Alinea el contador a la derecha */
     width: 100%; /* Ocupa todo el ancho de la columna de contenido */
+    color: $muted;
 }
 
 @media screen and (max-width: 45rem) {
