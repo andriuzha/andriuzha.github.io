@@ -1,3 +1,16 @@
+// ===== Paleta cálida del blog =====
+$bg:           #fdf8e7; // fondo crema/amarillo muy suave
+$fg:           #3d392b; // texto gris cálido
+$muted:        #6f6752; // enlaces y elementos secundarios
+$surface:      #f3ecd4; // bloques de código
+$surface-soft: #efe6c8; // citas
+$rule:         #d9cfab; // línea horizontal (hr)
+$border:       #e7ddbf; // bordes de separación
+
+html {
+	background: $bg;
+}
+
 *,:after,:before {
 	box-sizing:border-box;
 	background-color:inherit;
@@ -12,15 +25,16 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: rgb(22, 23, 26);
+	background: $bg;
+	color: $fg;
 }
 
 nav ul {
-    border-right: 1px solid #edf2f7;
+    border-right: 1px solid $border;
 }
 
 a {
-    color: #000;
+    color: $muted;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }
@@ -47,7 +61,7 @@ pre {
 }
 
 code,pre {
-	background: rgb(236, 237, 238);
+	background: $surface;
 }
 
 code {
@@ -68,7 +82,7 @@ img {
 }
 
 hr {
-	background: #000;
+	background: $rule;
     height: 1px;
     border: 0;
 }
@@ -99,7 +113,7 @@ header,section {
 
 blockquote {
 	font-style: italic;
-    border-left: 5px solid #ececec;
+    border-left: 5px solid $surface-soft;
     padding-left: 1rem;
 }
 
@@ -175,7 +189,7 @@ header li {
 	padding-bottom: 1rem;
 }
 header ul {
-	border-bottom: 1px solid #edf2f7;
+	border-bottom: 1px solid $border;
 	padding-bottom: 2rem;	
 }
 nav ul {
