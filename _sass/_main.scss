@@ -1,11 +1,11 @@
 / ===== Paleta Gruvbox  =====
 $bg0-h:        #fbf1c7; // fondo principal crema cálido
 $bg1:          #ebdbb2; // bloques de código / superficie
-$fg:           #3c3836; // texto gris-café oscuro
-$fg-dim:       #665c54; // enlaces y texto secundario
-$muted:        #928374; // meta, times, figcaptions
-$yellow:       #b57614; // acento (títulos, enlaces hover) - amarillo gruvbox claro
-$orange:       #af3a03; // borde de citas - naranja gruvbox claro
+$fg:           #282828; // TEXTO PRINCIPAL MÁS OSCURO (alto contraste)
+$fg-dim:       #504945; // enlaces y texto secundario (más oscuro)
+$muted:        #7c6f64; // meta, times, figcaptions (legible sobre crema)
+$yellow:       #af3a03; // acento títulos (naranja oscuro gruvbox = legible)
+$orange:       #af3a03; // borde de citas
 $border:       #d5c4a1; // bordes de separación
 $rule:         #bdae93; // hr
 
