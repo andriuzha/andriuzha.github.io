@@ -5,9 +5,9 @@ title: Conóceme
 
 ### Image
 
-![Image](image.png)
+**Especialista en IT, Comunicación e Impacto Social**
+*Profesional con una década de experiencia integrando tecnología, comunicación y ciencia de datos para construir soluciones con impacto social medible.*
 
-Soy un entusiasta de las tecnologías de la información y la participación ciudadana. 
 
 ### Experencia
 
