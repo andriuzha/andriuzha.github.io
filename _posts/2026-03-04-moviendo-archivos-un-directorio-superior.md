@@ -5,6 +5,7 @@ description: Aprende a mover archivos desde subcarpetas anidadas a un directorio
 summary: Guía rápida para organizar archivos y subcarpetas caóticas moviéndolos a un directorio superior mediante comandos de terminal con find y xargs.
 comments: true
 tags: [Linux, Tutoriales]
+---
 
 Este fin de semana me tomé el tiempo de organizar algunas fotografías que había tomado hace un tiempo, desafortunadamente la organización era un tanto caótica y difícil de navegar. Porque tenía muchas subcarpetas, así que en lugar de navegar de una en una, cortar los archivos, entrar a la siguiente y mover los archivos nuevamente, lo arreglé en un par de minutos con la Terminal. Veamos cómo se hace.
 ---
