@@ -7,7 +7,7 @@ comments: true
 tags: [Linux, Mac, Tutoriales]
 ---
 
-Hace poco veíamos cómo [descargar archivos desde nuestro servidor mediante FTP con la terminal.](https://andriuzha.github.io/2025/12/15/realiza-descargas-de-tu-servidor-desde-el-terminal) Veremos como hacerlo mediante Rsync.
+Hace poco veíamos cómo [descargar archivos desde nuestro servidor mediante FTP con la terminal.](https://andriuzha.github.io/2025/12/12/descarga-archivos-ftp-desde-el-terminal) Veremos como hacerlo mediante Rsync.
 
 ## Aclaremos un par de cosas primero
 
