@@ -1,11 +1,11 @@
 ---
-
-## layout: post
+layout: post
 title: Teclas de arranque en OS X: la guía.
 description: Guía rápida de combinaciones de teclas al arrancar un Mac para mantenimiento, recuperación y diagnósticos.
 summary: Explicación detallada de las combinaciones de teclas que se pueden presionar al encender un Mac para acceder a modos de mantenimiento, diagnóstico y selección de discos.
 comments: true
-tags: [Mac, Tutoriales]
+tags: [Tutoriales, macOS] 
+---
 
 OS X te permite realizar una combinación de teclas al arrancar tu Mac para realizar ciertas acciones, estas casi siempre son de mantenimiento, pero también puedes acceder a otras opciones.
 
