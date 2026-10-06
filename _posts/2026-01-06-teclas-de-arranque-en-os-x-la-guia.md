@@ -32,3 +32,5 @@ Cada una de estas combinaciones las debes de pulsar mientras se reproduce el son
 | `⏏` (`F12`) | Expulsará todas las unidades extraíbles. Por ejemplo, un DVD. |
 
 Ahora dispones de todos los modos de arranque, no es mala idea guardar o imprimir esta página para futuras referencias.
+
+Escrito originalmente el: 06/01:2016
